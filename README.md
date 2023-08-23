@@ -1,6 +1,5 @@
 # Quarkus API example
-[![Contribute](https://www.eclipse.org/che/contribute.svg)]([https://workspaces.openshift.com#https://github.com/che-incubator/quarkus-api-example](https://devspaces.apps.cluster-w9rkl.w9rkl.sandbox3027.opentlc.com/#https://github.com/codequester/quarkus-api-example.git))
-
+[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.cluster-w9rkl.w9rkl.sandbox3027.opentlc.com/#https://github.com/codequester/quarkus-api-example.git)
 
 Quarkus REST API with Hibernate ORM, Panache, RESTEasy, and PostgreSQL. Requires JDK 11.
 
